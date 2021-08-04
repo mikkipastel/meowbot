@@ -4,12 +4,12 @@ Repository การสร้างบอทแบบง่ายๆ มี 2 �
 * echo bot
 * lilycatbot
 
-### echobot
+## echobot
 การทำบอทแบบง่ายๆ โดยไม่ใช้ DialogFlow
 
 blog is coming soon
 
-### lilycatbot
+## lilycatbot
 หนึ่งในผลงานที่ทำในงาน Stupid Hackathon Thailand 5
 
 Wording Drop of Lily
@@ -19,16 +19,16 @@ Wording Drop of Lily
 * 🥱😴 นุง่วงแล้ว 5% : "ZzzZzzzzZ" สงสัยน้องคนเหนื่อย ปล่อยน้องนอนหน่อยนะ
 * 💃 โหมดคนสวยไม่ตอบ 20% : บอทไม่ได้พัง แค่หนูไม่ตอบเฉยๆ
 
-![wording drop](/readme/lilycatbot_wordgacha.png)
+<img src="/readme/lilycatbot_wordgacha.jpeg" width="750">
 
 และมีฟังก์ชั่นลับของคุณหนูลิลลี่
 "ลูบ"หนูสิค่ะ หนูจะเคลิ้มให้ดู
 
 chatbot แมวทิพย์ เหมาะสำหรับคนไม่มีแมวที่บ้าน
-เพจ Lily : https://www.facebook.com/lilycatbot/
-LINE bot : https://line.me/R/ti/p/@761lieys
+* เพจ Lily : https://www.facebook.com/lilycatbot/
+* LINE bot : https://line.me/R/ti/p/@761lieys
 
-![LINE OA lilycatbot](/readme/line_oa_lily.png)
+<img src="/readme/line_oa_lily.jpeg" width="500">
 
 video demo
 https://youtu.be/wwNMqYW7tSI?t=97
