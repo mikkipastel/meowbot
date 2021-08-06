@@ -1,5 +1,4 @@
 const functions = require("firebase-functions");
-//const region = "asia-east2";
 const region = "asia-southeast1";
 
 //echo bot
