@@ -1,5 +1,6 @@
 const functions = require("firebase-functions");
-const region = "asia-east2";
+//const region = "asia-east2";
+const region = "asia-southeast1";
 
 //echo bot
 const LINE_ACCESS_TOKEN = functions.config().line.echobot.access_token;
